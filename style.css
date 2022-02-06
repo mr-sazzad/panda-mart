@@ -1,0 +1,17 @@
+.bannar-bg {
+  background-color: #feeae9;
+}
+
+.button-bg {
+  background-image: linear-gradient(to bottom, #ff589b, #ff136f);
+}
+.watch-bg {
+  background-image: linear-gradient(to bottom, #ff9c35, #ffd019);
+}
+
+.shoes-bg {
+  background-image: linear-gradient(to bottom, #4289ff, #3f07f8);
+}
+.font-W {
+  font-weight: 700;
+}
